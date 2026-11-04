@@ -1,53 +1,44 @@
-# Линия — приложения учеников
+# Линия — скачать приложение
 
-Выберите своё имя в таблице. Скачайте ZIP, распакуйте его полностью и запустите приложение.
+## 1. Найдите своё имя
 
-| Ученик | Система | Скачать | Бот преподавателей | Бот |
-|---|---|---|---|---|
-| Лиза | macOS | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-liza-macOS.zip) | [Линия · Лиза](https://t.me/liniya_liza_2026_bot) | Подключён |
-| Илья | macOS | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ilya-macOS.zip) | [Линия · Илья](https://t.me/liniya_ilya_2026_bot) | Подключён |
-| Арсений | macOS | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-arseniy-macOS.zip) | [Линия · Арсений](https://t.me/liniya_arseniy_2026_bot) | Подключён |
-| Роман | Windows 11 | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-roman-Windows-win-x64.zip) | [Линия · Роман](https://t.me/liniya_roman_2026_bot) | Подключён |
-| Варя | Windows 11 | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-varya-Windows-win-x64.zip) | [Линия · Варя](https://t.me/liniya_varya_2026_bot) | Подключён |
-| Матвей | Windows 10 | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-matvey-Windows-win-x64.zip) | [Линия · Матвей](https://t.me/liniya_matvey_2026_bot) | Подключён |
-| Никита | Windows 10 | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-nikita-Windows-win-x64.zip) | [Линия · Никита](https://t.me/liniya_nikita_2026_bot) | Подключён |
-| Иван | Windows 10 | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ivan-Windows-win-x64.zip) | [Линия · Иван](https://t.me/liniya_ivan_2026_bot) | Подключён |
-| Дарья | Windows 10 Pro | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-darya-Windows-win-x64.zip) | [Линия · Дарья](https://t.me/liniya_darya_2026_bot) | Подключён |
-| Мария | Windows 10 Pro | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-mariya-Windows-win-x64.zip) | [Линия · Мария](https://t.me/liniya_mariya_2026_bot) | Подключён |
-| Эля | Windows 10 Pro | [Архив](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-elya-Windows-win-x64.zip) | [Линия · Эля](https://t.me/liniya_elya_2026_bot) | Приложение готово; регистрация бота ожидает снятия лимита Telegram |
+Нажмите **«Скачать»** в своей строке. Загрузка архива начнётся сразу.
 
-> 4 ноября 2026: работают десять ботов. Осталась Эля: Telegram ограничил создание нового бота примерно до 5 ноября, 18:26 МСК. Её архив и сервер готовы, но отправка преподавателю заработает после регистрации бота.
+| Ваше имя | Компьютер | Приложение |
+|---|---|---|
+| Лиза | Mac | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-liza-macOS.zip)** |
+| Илья | Mac | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ilya-macOS.zip)** |
+| Арсений | Mac | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-arseniy-macOS.zip)** |
+| Роман | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-roman-Windows-win-x64.zip)** |
+| Варя | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-varya-Windows-win-x64.zip)** |
+| Матвей | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-matvey-Windows-win-x64.zip)** |
+| Никита | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-nikita-Windows-win-x64.zip)** |
+| Иван | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ivan-Windows-win-x64.zip)** |
+| Дарья | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-darya-Windows-win-x64.zip)** |
+| Мария | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-mariya-Windows-win-x64.zip)** |
+| Эля | Windows | Скоро — подключение ещё готовится |
 
-## Первый запуск
+## 2. Распакуйте и откройте
 
-Приложение уже настроено под ученика. Вводить коды и адреса не нужно. Оно покажет номер подключения: сообщите его преподавателю, чтобы он нажал «Подключить компьютер» в соответствующем боте. Это требуется только для нового подключения.
+**На Windows:** откройте «Загрузки» → нажмите правой кнопкой на скачанный архив → **«Извлечь всё»** → откройте полученную папку → дважды нажмите **Liniya.exe**.
 
-Преподаватель входит в бот сообщением `я учитель: ваш пароль`. Пароль выдаётся отдельно. Несколько преподавателей могут работать одновременно. После подтверждения компьютера снимки приходят всем вошедшим преподавателям. Ответьте текстом на нужный снимок — ученик увидит ответ в приложении.
+**На Mac:** откройте «Загрузки» → дважды нажмите на архив → перенесите приложение **«Линия — ваше имя»** в папку **«Программы»** → откройте его. Разрешите **«Запись экрана»**, когда macOS попросит.
 
-Mac: перенесите приложение в Applications и запускайте оттуда. **⇧⌘2** — отправить весь экран, **⇧⌘Пробел** — показать/скрыть панель. Значков в Dock и строке меню нет; повторный запуск приложения возвращает панель. Сочетания меняются и сбрасываются в настройках.
+Если компьютер не даёт открыть приложение, отправьте преподавателю скриншот сообщения.
 
-Windows: **Ctrl+Shift+2** — отправить весь экран. **Ctrl+Shift+Пробел** — показать/скрыть панель, **Ctrl+Shift+L** — включить/выключить клики сквозь панель. Повторный запуск приложения возвращает управление.
+## 3. Подключитесь и пользуйтесь
 
-В версии **2.2.0** на Mac и Windows можно назначить команду на **одну клавишу**, без Ctrl, Alt или Shift: нажмите назначение в настройках, затем нужную клавишу. Esc отменяет запись. Системные зарезервированные клавиши могут быть недоступны. Одиночная клавиша запускает команду вместо печати; стандартные сочетания сохраняются, пока вы их не измените. Дополнительно поддерживаются пять кнопок мыши, при этом обычный клик в других программах сохраняется.
+При первом запуске сообщите преподавателю **номер подключения**, который покажет Линия. Дождитесь его подтверждения.
 
-Назначенная клавиша показа возвращает управление, если включены клики сквозь панель. При редактировании полей самой Линии одиночные клавиши временно освобождаются для ввода.
+После подключения отправьте экран — ответ преподавателя появится в панели:
 
-Если отправка оборвалась, нажмите «Повторить» или ту же клавишу: повтор использует прежний снимок и не создаёт вторую задачу.
+| Mac — пример ответа | Windows — пример ответа |
+|:---:|:---:|
+| <img src="assets/app-mac.png" width="380" alt="Панель Линии на Mac: ответ в центре, кнопка отправки экрана внизу справа"> | <img src="assets/app-windows.jpg" width="380" alt="Панель Линии на Windows: ответ в центре, синяя кнопка Отправить весь экран внизу"> |
 
-Windows 2.2.0 также исправляет прозрачность панели и прохождение кликов. Ползунок «Непрозрачность» позволяет видеть рабочий стол под панелью.
+| Что сделать | Mac | Windows |
+|---|---|---|
+| Отправить весь экран | **⌘ Shift 2** | **Ctrl Shift 2** |
+| Показать / скрыть панель | **⌘ Shift Пробел** | **Ctrl Shift Пробел** |
 
-## Совместимость
-
-Mac 2.2.0: macOS 14+, Intel и Apple Silicon в одном архиве. Подпись ad-hoc, без нотарификации Apple. Если macOS блокирует приложение, разрешите именно его через «Конфиденциальность и безопасность».
-
-Windows: x64, .NET включён. Рекомендуется Windows 11; Windows 10/Pro требует build 19041 или новее и проверки запуска на конкретном компьютере. Выпуск не проходил отдельную проверку на Windows 10. Подписи Authenticode пока нет. Для Windows ARM64 запросите отдельную сборку.
-
-Нужен интернет. При отзыве доступа преподавателем переподключите компьютер через настройки. Не пересылайте учительский пароль ученикам.
-
-В этом репозитории только приложения и инструкции. Каждый архив имеет свой сервер и профиль подключения; ключей доступа к ученику, токенов Telegram и пароля преподавателя внутри нет. Контрольные суммы SHA-256 лежат рядом с архивами в Releases.
-
-## Разрешения Mac
-
-При первом запуске приложение один раз запрашивает запись экрана. При отказе повторных автоматических запросов от приложения нет: оно показывает кнопку настроек macOS. Микрофон, камера и управление компьютером не требуются.
-
-Повторные системные подтверждения и фиолетовый индикатор захвата контролирует macOS. Сборка подписана ad-hoc, поэтому после обновления ОС может снова запросить доступ. Не запускайте одновременно несколько копий; обновляйте приложение в том же месте. Отсутствие значков не гарантирует невидимость панели во всех программах записи.
+В настройках можно выбрать **одну удобную клавишу** вместо сочетания. Если панель пропала, просто откройте приложение ещё раз. Для работы нужен интернет.
