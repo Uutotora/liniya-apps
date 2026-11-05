@@ -16,7 +16,7 @@
 | Иван | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ivan-Windows-win-x64.zip)** |
 | Дарья | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-darya-Windows-win-x64.zip)** |
 | Мария | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-mariya-Windows-win-x64.zip)** |
-| Эля | Windows | Скоро — подключение ещё готовится |
+| Эля | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-elya-Windows-win-x64.zip)** |
 
 ## 2. Распакуйте и откройте
 
@@ -42,3 +42,17 @@
 | Показать / скрыть панель | **⌘ Shift Пробел** | **Ctrl Shift Пробел** |
 
 В настройках можно выбрать **одну удобную клавишу** вместо сочетания. Если панель пропала, просто откройте приложение ещё раз. Для работы нужен интернет.
+
+
+## Для преподавателей
+
+[Открыть список ботов и инструкцию входа](TEACHERS.md).
+
+## Для тестирования
+
+Отдельный [бот «Линия»](https://t.me/liniya_class_20261012_bot) и приложения **«Линия — Тест»**:
+
+- **[Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/testing-v2.2.0/Liniya-test-macOS.zip)**
+- **[Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/testing-v2.2.0/Liniya-test-Windows-win-x64.zip)**
+
+Откройте тестовое приложение и подтвердите его номер в общем боте. Оба тестовых компьютера видят общую историю. Кабинеты учеников отдельные.
