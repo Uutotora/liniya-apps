@@ -1,58 +1,26 @@
 # Линия — скачать приложение
 
-## 1. Найдите своё имя
+Выберите строку **со своим именем**. На компьютере скачайте приложение для своей системы. На телефоне откройте Telegram-бота из этой же строки.
 
-Нажмите **«Скачать»** в своей строке. Загрузка архива начнётся сразу.
+| Ученик | Windows | Mac | Telegram |
+|---|---|---|---|
+| Эля | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-elya-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-elya-macOS.zip) | [Бот ученика](https://t.me/liniya_elya_2026_bot) |
+| Лиза | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-liza-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-liza-macOS.zip) | [Бот ученика](https://t.me/liniya_liza_2026_bot) |
+| Рома (Роман) | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-roman-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-roman-macOS.zip) | [Бот ученика](https://t.me/liniya_roman_2026_bot) |
+| Матвей | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-matvey-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-matvey-macOS.zip) | [Бот ученика](https://t.me/liniya_matvey_2026_bot) |
+| Варя | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-varya-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-varya-macOS.zip) | [Бот ученика](https://t.me/liniya_varya_2026_bot) |
+| Мария | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-mariya-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-mariya-macOS.zip) | [Бот ученика](https://t.me/liniya_mariya_2026_bot) |
+| Даша (Дарья) | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-darya-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-darya-macOS.zip) | [Бот ученика](https://t.me/liniya_darya_2026_bot) |
+| Никита | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-nikita-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.0.0/Liniya-nikita-macOS.zip) | [Бот ученика](https://t.me/liniya_nikita_2026_bot) |
 
-| Ваше имя | Компьютер | Приложение |
-|---|---|---|
-| Лиза | Mac | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-liza-macOS.zip)** |
-| Илья | Mac | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ilya-macOS.zip)** |
-| Арсений | Mac | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-arseniy-macOS.zip)** |
-| Роман | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-roman-Windows-win-x64.zip)** |
-| Варя | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-varya-Windows-win-x64.zip)** |
-| Матвей | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-matvey-Windows-win-x64.zip)** |
-| Никита | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-nikita-Windows-win-x64.zip)** |
-| Иван | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-ivan-Windows-win-x64.zip)** |
-| Дарья | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-darya-Windows-win-x64.zip)** |
-| Мария | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-mariya-Windows-win-x64.zip)** |
-| Эля | Windows | **[Скачать](https://github.com/Uutotora/liniya-apps/releases/download/students-v2.2.0/Liniya-elya-Windows-win-x64.zip)** |
+## Как пользоваться
 
-## 2. Распакуйте и откройте
+1. На телефоне нажмите **Старт → Я ученик** в своём боте. Для входа достаточно этой кнопки.
+2. Распакуйте архив на компьютере. На **Windows** выберите «Извлечь всё» и запустите `Liniya.exe` из папки своего архива. На **Mac** перенесите приложение «Линия — ваше имя» в «Программы», откройте его и разрешите запись экрана. При обновлении с версии 2.x сначала завершите старую Линию через диспетчер задач или «Мониторинг системы».
+3. Наведите указатель на нужный монитор, нажмите и отпустите **↓**. Снимок придёт вам и преподавателю. Ответ читайте в чате бота на телефоне.
 
-**На Windows:** откройте «Загрузки» → нажмите правой кнопкой на скачанный архив → **«Извлечь всё»** → откройте полученную папку → дважды нажмите **Liniya.exe**.
+Можно перейти на другой компьютер. Запустите на нём приложение **со своим именем**, даже если обычно за ним сидит другой ученик. Например, приложение «Линия — Эля» всегда отправляет снимки в бот Эли.
 
-**На Mac:** откройте «Загрузки» → дважды нажмите на архив → перенесите приложение **«Линия — ваше имя»** в папку **«Программы»** → откройте его. Разрешите **«Запись экрана»**, когда macOS попросит.
+Приложение работает в фоне. Пока оно запущено, одиночная стрелка вниз занята съёмкой. Чтобы освободить клавишу, завершите процесс **Liniya**. Чтобы выйти из бота на телефоне, отправьте `/logout`.
 
-Если компьютер не даёт открыть приложение, отправьте преподавателю скриншот сообщения.
-
-## 3. Подключитесь и пользуйтесь
-
-При первом запуске сообщите преподавателю **номер подключения**, который покажет Линия. Дождитесь его подтверждения.
-
-После подключения отправьте экран — ответ преподавателя появится в панели:
-
-| Mac — пример ответа | Windows — пример ответа |
-|:---:|:---:|
-| <img src="assets/app-mac.png" width="380" alt="Панель Линии на Mac: ответ в центре, кнопка отправки экрана внизу справа"> | <img src="assets/app-windows.jpg" width="380" alt="Панель Линии на Windows: ответ в центре, синяя кнопка Отправить весь экран внизу"> |
-
-| Что сделать | Mac | Windows |
-|---|---|---|
-| Отправить весь экран | **⌘ Shift 2** | **Ctrl Shift 2** |
-| Показать / скрыть панель | **⌘ Shift Пробел** | **Ctrl Shift Пробел** |
-
-В настройках можно выбрать **одну удобную клавишу** вместо сочетания. Если панель пропала, просто откройте приложение ещё раз. Для работы нужен интернет.
-
-
-## Для преподавателей
-
-[Открыть список ботов и инструкцию входа](TEACHERS.md).
-
-## Для тестирования
-
-Отдельный [бот «Линия»](https://t.me/liniya_class_20261012_bot) и приложения **«Линия — Тест»**:
-
-- **[Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/testing-v2.2.0/Liniya-test-macOS.zip)**
-- **[Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/testing-v2.2.0/Liniya-test-Windows-win-x64.zip)**
-
-Откройте тестовое приложение и подтвердите его номер в общем боте. Оба тестовых компьютера видят общую историю. Кабинеты учеников отдельные.
+**[Инструкция для преподавателя](TEACHERS.md)** · [Тестовый бот](https://t.me/liniya_class_20261012_bot) · [Тестовые приложения](https://github.com/Uutotora/liniya-apps/releases/tag/testing-v3.0.0)
