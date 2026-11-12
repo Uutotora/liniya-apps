@@ -1,0 +1,34 @@
+name: Опубликовать проверенные сборки Windows 3.2.1
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Сверить SHA-256 с результатами проверки Windows и добавить ZIP в выпуск
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          while read -r expected file; do
+            curl -fsS --retry 3 --output "$file" "https://83.141.89.84/downloads/3.2.1/$file"
+            printf '%s  %s\n' "$expected" "$file" > "$file.sha256"
+            sha256sum -c "$file.sha256"
+            tag=students-v3.2.1
+            if [[ "$file" == Liniya-test-* ]]; then tag=testing-v3.2.1; fi
+            gh release upload "$tag" "$file" "$file.sha256" --repo "$REPO" --clobber
+          done <<'CHECKSUMS'
+          56d53ecd5545630f3ee1a567861035b89b397c84d84fe4c85a505ec2a24cdf17 Liniya-darya-Windows-win-x64.zip
+          ccd3846758c5b3a5c6864a3d6c586fd2b6943e431b9443287206846e84f7eb0e Liniya-elya-Windows-win-x64.zip
+          a0cd4a3b8cdcba44954f309ae2ac3a960acd0c3dc9a7df78f982da652d1e83ee Liniya-ilya-Windows-win-x64.zip
+          8c7d9e67f195d886390f3953aaf2e950bb79a098093f4fc79fe73e658288d5da Liniya-ivan-Windows-win-x64.zip
+          ae8a53fe4293cb7f873dbd83b8e992813a93807dd83d6145f0666037c1774a30 Liniya-liza-Windows-win-x64.zip
+          cf1ed0be2ebab226119091fb6fbd029eb15e23cf769a8638c6d6fa933d631bce Liniya-mariya-Windows-win-x64.zip
+          dc792648f694ccccd80eb2c081ec2e085e6a6269ea84d0d2825a9f12378c961f Liniya-matvey-Windows-win-x64.zip
+          639a079b52afce37a93bad14f66d10a086071faa09979ed05d55e09c0dc66cfd Liniya-nikita-Windows-win-x64.zip
+          85a90b7e2bdd79d26c9db62f6d5e918d9bf8b71382442730ba427e62f36ee559 Liniya-roman-Windows-win-x64.zip
+          6d5928865434d3eff4965405ff3d3e6c33a6c2ee9bd95ac6b482bce5f4fbff49 Liniya-test-Windows-win-x64.zip
+          9f295316283184cdbd269583c5c0e160fd7ff8a0c052528e2a87088ceda25882 Liniya-varya-Windows-win-x64.zip
+          CHECKSUMS
