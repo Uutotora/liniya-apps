@@ -6,6 +6,8 @@
 | --- | --- |
 | [Открыть инструкцию со стрелками →](MAC.md) | [Открыть инструкцию с картинками →](WINDOWS.md) |
 
+[Если на Windows что-то не работает](WINDOWS-HELP.md)
+
 | Ученик | Windows | Mac | Telegram |
 |---|---|---|---|
 | Эля | [Скачать для Windows](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.1.0/Liniya-elya-Windows-win-x64.zip) | [Скачать для Mac](https://github.com/Uutotora/liniya-apps/releases/download/students-v3.1.0/Liniya-elya-macOS.zip) | [Бот ученика](https://t.me/liniya_elya_2026_bot) |
